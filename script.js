@@ -68,7 +68,7 @@ const quotes = [
       source: "Alan Turing"
     },
     {
-      quote: "I'd rather regret the risks that did't work out than the chances I didn't take at all.",
+      quote: "I'd rather regret the risks that didn't work out than the chances I didn't take at all.",
       source: "Simone Biles"
     },
     {
