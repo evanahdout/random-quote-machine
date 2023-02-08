@@ -4,5 +4,5 @@ This is a web application built in vanilla JavaScript that displays a random quo
 ## Webpage
 [GitHub Page](https://evanahdout.github.io/random-quote-machine/)
 
-## Picture preview
+## Preview
 ![Picture of webpage](random-quote-machine.png)
