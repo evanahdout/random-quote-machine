@@ -8,4 +8,4 @@ This application was built using vanillla JavaScript.
 [GitHub Page](https://evanahdout.github.io/random-quote-machine/)
 
 ## Preview
-![Picture of webpage](random-quote-machine.png)
+![Random quote machine webpage](random-quote-machine.png)
